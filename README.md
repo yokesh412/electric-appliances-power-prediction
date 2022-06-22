@@ -1,4 +1,4 @@
-# ml-project     
+# Supervised regression Project     
 Energy consumption is among one of the essential
 topics of energy systems. Energy consumption came under the consideration after the energy crisis in 1970s. Also, It is shown that energy consumption throughout the world is rapidly increasing . Therefore, each country tries to use as less energy as possible in their country in different areas from building to farms, from industrial process to vehicles .
  it need so much effort to keep tracking of energy consumption of these types in different area. However by doing so, we can predict the amount of energy, which is consumed in different areas and try to make plans, specialized for a specific usage and area. For all energy types mentioned above, estimating the usage is useful for decision and policy makers. 
